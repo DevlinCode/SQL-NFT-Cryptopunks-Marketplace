@@ -34,6 +34,6 @@ Here is an overview of the database schema used in this project:
 
 <a id='5'></a>
 # Contact
-LinkedIn - https://www.linkedin.com/in/manoj-choudhary-978073216/
-Gmail - manojchoudhary2d@gmail.com
-Project Link: 
+* LinkedIn - https://www.linkedin.com/in/manoj-choudhary-978073216/
+* Gmail - manojchoudhary2d@gmail.com
+* Project Link: https://github.com/DevlinCode/SQL-NFT-Cryptopunks-Marketplace
