@@ -5,9 +5,10 @@ Welcome to the SQL NFT Marketplace project! This repository contains the code fo
 ## Table of Contents
 * **[Project Overview](#1)**
 * **[Features](#2)**
-* **[Database Schema](#3)**
-* **[License](#4)**
-* **[Contact](#5)**
+* **[Tech Stack](#3)**
+* **[Database Schema](#4)**
+* **[License](#5)**
+* **[Contact](#6)**
 
 <a id='1'></a>
 # Project Overview
@@ -21,6 +22,11 @@ This project aims to create a comprehensive NFT marketplace with a strong backen
 * Real-Time Data Updates: Ensures that the marketplace data is always up-to-date.
 
 <a id='3'></a>
+# Tech Stack
+* Backend: SQL
+* Software: MySQL Workbench
+
+<a id='4'></a>
 # Database Schema
 Here is an overview of the database schema used in this project:
 
@@ -28,11 +34,11 @@ Here is an overview of the database schema used in this project:
 * NFTs: Stores information about each NFT (id, owner_id, metadata, etc.).
 * Transactions: Tracks all transactions in the marketplace (id, nft_id, buyer_id, seller_id, timestamp, etc.).
 
-<a id='4'></a>
+<a id='5'></a>
 # License
 * Distributed under the MIT License.
 
-<a id='5'></a>
+<a id='6'></a>
 # Contact
 * LinkedIn - https://www.linkedin.com/in/manoj-choudhary-978073216/
 * Gmail - manojchoudhary2d@gmail.com
